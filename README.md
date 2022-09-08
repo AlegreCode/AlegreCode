@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **React, Vue, Svelte**
 
+- 📝 I regularly write articles on [https://blog.carlosalbertoalegre.com.ar](https://blog.carlosalbertoalegre.com.ar)
+
 - 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **info@carlosalbertoalegre.com.ar**
