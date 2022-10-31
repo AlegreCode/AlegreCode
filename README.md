@@ -11,7 +11,9 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 💯 [Graphql en python](https://blog.carlosalbertoalegre.com.ar/graphql-en-python)
+ - 💯 [Integración Laravel, TinyMCE y ImgBB](https://blog.carlosalbertoalegre.com.ar/integracion-laravel-tinymce-y-imgbb)
+ - 🔥 [Subir una imagen a ImgBB con Laravel](https://blog.carlosalbertoalegre.com.ar/subir-una-imagen-a-imgbb-con-laravel)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
