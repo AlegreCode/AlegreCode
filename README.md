@@ -11,9 +11,10 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - 💯 [Autoguardado de formulario con React y Firebase](https://blog.carlosalbertoalegre.com.ar/autoguardado-de-formulario-con-react-y-firebase)
  - 💯 [Graphql en python](https://blog.carlosalbertoalegre.com.ar/graphql-en-python)
- - 💯 [Integración Laravel, TinyMCE e ImgBB](https://blog.carlosalbertoalegre.com.ar/integracion-laravel-tinymce-e-imgbb)
- - 🔥 [Subir una imagen a ImgBB con Laravel](https://blog.carlosalbertoalegre.com.ar/subir-una-imagen-a-imgbb-con-laravel)<!-- BLOGPOSTS:END -->
+ - 🔥 [Integración Laravel, TinyMCE e ImgBB](https://blog.carlosalbertoalegre.com.ar/integracion-laravel-tinymce-e-imgbb)
+ - 🚀 [Subir una imagen a ImgBB con Laravel](https://blog.carlosalbertoalegre.com.ar/subir-una-imagen-a-imgbb-con-laravel)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
