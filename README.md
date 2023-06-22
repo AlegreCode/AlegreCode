@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Alberto Alegre</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h3 align="center">A passionate fullstack developer from Argentina</h3><a href="https://app.daily.dev/carlosalbertoalegre"><img src="https://api.daily.dev/devcards/25e039b679a14868812f28e254455d51.png?r=1n7" width="400" alt="Carlos Alberto Alegre's Dev Card"/></a>
 
 - 🌱 I’m currently learning **React, Vue, Svelte**
 
