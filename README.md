@@ -1,4 +1,4 @@
-<div align="left" width="400">
+<div align="left" style="widht:400px;">
  <h1 align="center">Hi 👋, I'm Carlos Alberto Alegre</h1>
  <h3 align="center">A passionate fullstack developer from Argentina</h3>
 </div>
