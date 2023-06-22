@@ -1,7 +1,5 @@
-<div align="left" style="width:400px;">
- <h1 align="center">Hi 👋, I'm Carlos Alberto Alegre</h1>
- <h3 align="center">A passionate fullstack developer from Argentina</h3>
-</div>
+<h1 align="center">Hi 👋, I'm Carlos Alberto Alegre</h1>
+<h3 align="center">A passionate fullstack developer from Argentina</h3>
 <div align="right">
  <a href="https://app.daily.dev/carlosalbertoalegre"><img src="https://github.com/AlegreCode/AlegreCode/blob/main/devcard.svg" width="400" alt="Carlos Alberto Alegre's Dev Card"/></a>
 </div>
