@@ -3,7 +3,8 @@
 <div align="right">
  <a href="https://app.daily.dev/carlosalbertoalegre"><img src="https://github.com/AlegreCode/AlegreCode/blob/main/devcard.svg" width="400" alt="Carlos Alberto Alegre's Dev Card"/></a>
 </div>
-
+<div align="left">
+ 
 - 🌱 I’m currently learning **React, Vue, Svelte**
 
 - 📝 I regularly write articles on [https://blog.carlosalbertoalegre.com.ar](https://blog.carlosalbertoalegre.com.ar)
@@ -11,6 +12,7 @@
 - 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **info@carlosalbertoalegre.com.ar**
+</div>
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
