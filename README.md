@@ -14,11 +14,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [GraphQL en PHP](https://blog.carlosalbertoalegre.com.ar/graphql-en-php)
- - 💯 [API RESTful en Go](https://blog.carlosalbertoalegre.com.ar/api-restful-en-go)
- - 🔥 [Toggle Buttons con CSS sin Javascript](https://blog.carlosalbertoalegre.com.ar/toggle-buttons-con-css-sin-javascript)
- - 🚀 [Autoguardado de formulario con React y Firebase](https://blog.carlosalbertoalegre.com.ar/autoguardado-de-formulario-con-react-y-firebase)
- - 🌮 [Graphql en python](https://blog.carlosalbertoalegre.com.ar/graphql-en-python)<!-- BLOGPOSTS:END -->
+ - 💯 [GraphQL en PHP](https://alegrecode.hashnode.dev/graphql-en-php)
+ - 💯 [API RESTful en Go](https://alegrecode.hashnode.dev/api-restful-en-go)
+ - 🔥 [Toggle Buttons con CSS sin Javascript](https://alegrecode.hashnode.dev/toggle-buttons-con-css-sin-javascript)
+ - 🚀 [Autoguardado de formulario con React y Firebase](https://alegrecode.hashnode.dev/autoguardado-de-formulario-con-react-y-firebase)
+ - 🌮 [Graphql en python](https://alegrecode.hashnode.dev/graphql-en-python)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
