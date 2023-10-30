@@ -14,11 +14,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - 💯 [Agenda de Contactos en ReactJS con Redux y Firebase &lpar;Parte 2&rpar;](https://blog.carlosalbertoalegre.com.ar/agenda-de-contactos-en-reactjs-con-redux-y-firebase-parte-2)
  - 💯 [Agenda de Contactos en ReactJS con Redux y Firebase &lpar;Parte 1&rpar;](https://blog.carlosalbertoalegre.com.ar/agenda-de-contactos-en-reactjs-con-redux-y-firebase-parte-1)
- - 💯 [GraphQL en PHP](https://blog.carlosalbertoalegre.com.ar/graphql-en-php)
- - 🔥 [API RESTful en Go](https://blog.carlosalbertoalegre.com.ar/api-restful-en-go)
- - 🚀 [Toggle Buttons con CSS sin Javascript](https://blog.carlosalbertoalegre.com.ar/toggle-buttons-con-css-sin-javascript)
- - 🌮 [Autoguardado de formulario con React y Firebase](https://blog.carlosalbertoalegre.com.ar/autoguardado-de-formulario-con-react-y-firebase)<!-- BLOGPOSTS:END -->
+ - 🔥 [GraphQL en PHP](https://blog.carlosalbertoalegre.com.ar/graphql-en-php)
+ - 🚀 [API RESTful en Go](https://blog.carlosalbertoalegre.com.ar/api-restful-en-go)
+ - 🌮 [Toggle Buttons con CSS sin Javascript](https://blog.carlosalbertoalegre.com.ar/toggle-buttons-con-css-sin-javascript)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
