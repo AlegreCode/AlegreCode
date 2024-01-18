@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Carlos Alberto Alegre</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 <a href="https://app.daily.dev/carlosalbertoalegre"><img src="https://github.com/AlegreCode/AlegreCode/blob/main/devcard.svg" align="right" width="300" alt="Carlos Alberto Alegre's Dev Card"/></a>
+
+****
 <div align="left">
  
 - 🌱 I’m currently learning **React, Vue, Svelte**
@@ -20,7 +22,9 @@
  - 🚀 [GraphQL en PHP](https://blog.carlosalbertoalegre.com.ar/graphql-en-php)
  - 🌮 [API RESTful en Go](https://blog.carlosalbertoalegre.com.ar/api-restful-en-go)<!-- BLOGPOSTS:END -->
 
+****
 
+    
 <div align="left">
    <a href="https://github.com/anuraghazra/github-readme-stats">
      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alegrecode&theme=ambient_gradient" />
