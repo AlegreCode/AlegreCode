@@ -19,13 +19,13 @@
  - 🔥 [Agenda de Contactos en ReactJS con Redux y Firebase &lpar;Parte 1&rpar;](https://blog.carlosalbertoalegre.com.ar/agenda-de-contactos-en-reactjs-con-redux-y-firebase-parte-1)
  - 🚀 [GraphQL en PHP](https://blog.carlosalbertoalegre.com.ar/graphql-en-php)
  - 🌮 [API RESTful en Go](https://blog.carlosalbertoalegre.com.ar/api-restful-en-go)<!-- BLOGPOSTS:END -->
-<div align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alegrecode&theme=ambient_gradient" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alegrecode&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient" />
-</a>
+<div>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alegrecode&theme=ambient_gradient" />
+   </a>
+   <a href="https://github.com/anuraghazra/convoychat">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alegrecode&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient" />
+   </a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
