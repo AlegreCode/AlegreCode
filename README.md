@@ -12,7 +12,6 @@
 - 📫 How to reach me **info@carlosalbertoalegre.com.ar**
 </div>
 
- <div>
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 💯 [GraphQL en Go](https://blog.carlosalbertoalegre.com.ar/graphql-en-go)
@@ -20,7 +19,8 @@
  - 🔥 [Agenda de Contactos en ReactJS con Redux y Firebase &lpar;Parte 1&rpar;](https://blog.carlosalbertoalegre.com.ar/agenda-de-contactos-en-reactjs-con-redux-y-firebase-parte-1)
  - 🚀 [GraphQL en PHP](https://blog.carlosalbertoalegre.com.ar/graphql-en-php)
  - 🌮 [API RESTful en Go](https://blog.carlosalbertoalegre.com.ar/api-restful-en-go)<!-- BLOGPOSTS:END -->
- </div>
+
+
 <div align="left">
    <a href="https://github.com/anuraghazra/github-readme-stats">
      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alegrecode&theme=ambient_gradient" />
