@@ -12,7 +12,7 @@
 - 📫 How to reach me **info@carlosalbertoalegre.com.ar**
 </div>
 
- <div align="left">
+ <div>
      #### :books: Recent Blog Posts
      <!-- BLOGPOSTS:START -->
       - 💯 [GraphQL en Go](https://blog.carlosalbertoalegre.com.ar/graphql-en-go)
