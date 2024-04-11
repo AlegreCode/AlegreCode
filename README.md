@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **info@carlosalbertoalegre.com.ar**
+- 📫 How to reach me **contacto@carlosalbertoalegre.com.ar**
 </div>
 
 #### :books: Recent Blog Posts
