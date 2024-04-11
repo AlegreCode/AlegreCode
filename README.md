@@ -1,3 +1,5 @@
+![AlegreCode](https://res.cloudinary.com/alegrecodecloud/image/upload/v1712807984/avatar/1080x360_y2rppf.jpg)
+
 <h1 align="center">Hi 👋, I'm Carlos Alberto Alegre</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 <a href="https://app.daily.dev/carlosalbertoalegre"><img src="https://github.com/AlegreCode/AlegreCode/blob/main/devcard.svg" align="right" width="280" alt="Carlos Alberto Alegre's Dev Card"/></a>
