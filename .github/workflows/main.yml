@@ -11,10 +11,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Fetch blog posts with retry
+        id: fetch_blog_posts
+        continue-on-error: true
+        run: |
+          for i in {1..5}; do
+            curl -s -o /dev/null -w "%{http_code}" https://blog.carlosalbertoalegre.com.ar/rss.xml
+            if [ "$?" -eq 0 ]; then
+              echo "Feed fetched successfully"
+              break
+            else
+              echo "Failed to fetch feed, retrying in 60 seconds..."
+              sleep 60
+            fi
+          done
+          if [ "$i" -eq 5 ]; then
+            echo "Failed to fetch feed after 5 attempts"
+            exit 1
+          fi
       - uses: gautamkrishnar/blog-post-workflow@master
+        if: steps.fetch_blog_posts.outcome == 'success'
         with:
           comment_tag_name: "BLOGPOSTS"
           feed_list: "https://blog.carlosalbertoalegre.com.ar/rss.xml"
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
-          commit_message: "recent posts section updated"
+          commit_message: "recent posts updated"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
