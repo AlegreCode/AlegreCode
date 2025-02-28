@@ -12,7 +12,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOGPOSTS"
-          BLOG_URL: "https://blog.carlosalbertoalegre.com.ar/"
+          feed_list: "https://blog.carlosalbertoalegre.com.ar/"
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
           commit_message: "recent posts updated"
         env:
