@@ -1,36 +1,15 @@
-name: Hashnode Blog Posts
+name: Latest hashnde blog post workflow
 on:
-  schedule:
-    # Runs every 6 hours of the day
-    - cron: '0 12 * * *'
-  workflow_dispatch:
-
+  schedule: # Run workflow automatically
+    - cron: '0  12 * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with the latest blog posts
+  update-readme-with-hashnde-blog:
+    name: Update this repo's README with the latest hashnde blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Fetch blog posts with retry
-        id: fetch_blog_posts
-        continue-on-error: true
-        run: |
-          for i in {1..5}; do
-            curl -s -o /dev/null -w "%{http_code}" https://blog.carlosalbertoalegre.com.ar/rss.xml
-            if [ "$?" -eq 0 ]; then
-              echo "Feed fetched successfully"
-              break
-            else
-              echo "Failed to fetch feed, retrying in 60 seconds..."
-              sleep 60
-            fi
-          done
-          if [ "$i" -eq 5 ]; then
-            echo "Failed to fetch feed after 5 attempts"
-            exit 1
-          fi
       - uses: gautamkrishnar/blog-post-workflow@master
-        if: steps.fetch_blog_posts.outcome == 'success'
         with:
           comment_tag_name: "BLOGPOSTS"
           feed_list: "https://blog.carlosalbertoalegre.com.ar/rss.xml"
