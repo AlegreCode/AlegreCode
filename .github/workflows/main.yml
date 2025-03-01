@@ -1,7 +1,7 @@
 name: Latest hashnde blog post workflow
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
+    - cron: '0 0 * * *' # Se ejecuta cada 24 horas a medianoche UTC
   workflow_dispatch:
 jobs:
   update-readme-with-hashnde-blog:
