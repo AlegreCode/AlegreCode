@@ -1,4 +1,4 @@
-![AlegreCode](https://res.cloudinary.com/alegrecodecloud/image/upload/v1712807984/avatar/1080x360_y2rppf.jpg)
+![AlegreCode](https://res.cloudinary.com/alegrecodecloud/image/upload/v1742329827/logotipo/logotipo_facebook-851x315_vyyz2d.jpg)
 
 <h1 align="center">Hi 👋, I'm Carlos Alberto Alegre</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
