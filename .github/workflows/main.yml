@@ -19,6 +19,6 @@ jobs:
           USERNAME: "alegrecode" # Hashnode Username
           COUNT: 4 # MAX Visisble
           STYLE: "blog-left"
-          BLOG_URL: "https://blog.carlosalbertoalegre.com.ar/rss.xml"
+          BLOG_URL: "https://blog.carlosalbertoalegre.com.ar/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
