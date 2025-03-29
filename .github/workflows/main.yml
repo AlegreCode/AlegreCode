@@ -12,7 +12,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOGPOSTS"
-          feed_list: "https://blog.carlosalbertoalegre.com.ar/rss.xml"
+          feed_list: "https://blog.carlosalbertoalegre.com.ar/"
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
           commit_message: "recent posts updated"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
