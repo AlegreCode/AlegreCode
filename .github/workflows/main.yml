@@ -1,18 +1,24 @@
-name: Latest hashnde blog post workflow
+name: "📚 latest Blog"
+
 on:
-  schedule:
-    - cron: '0 0 * * *' # Se ejecuta cada 24 horas a medianoche UTC
   workflow_dispatch:
+  schedule:
+    - cron:  "0 * * * *" # Runs every hour, on the hour
+
 jobs:
-  update-readme-with-hashnde-blog:
-    name: Update this repo's README with the latest hashnde blog posts
+  update_blogs:
+    name: "Update With Latest Blogs"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
-          comment_tag_name: "BLOGPOSTS"
-          feed_list: "https://alegrecode.hashnode.dev/rss.xml"
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
-          commit_message: "recent posts updated"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: "rahulblg" # Hashnode Username
+          COUNT: 4 # MAX Visisble
+          STYLE: "blog-left"
+          BLOG_URL: "https://alegrecode.hashnode.dev/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
