@@ -16,7 +16,7 @@
 - 📫 How to reach me **contacto@carlosalbertoalegre.com.ar**
 </div>
 
-## :books: Latest Blogs
+## :books: Latest Posts
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1743106720416/ecf5f3f0-8e64-4739-bae6-d26dc73a04b2.png" alt="Guía para Mostrar Contenido de Hashnode en tu Página Web a través de su API"></td><td><a href="https://blog.carlosalbertoalegre.com.ar/guia-para-mostrar-contenido-de-hashnode-en-tu-pagina-web-a-traves-de-su-api"><strong>Guía para Mostrar Contenido de Hashnode en tu Página Web a través de su API</strong></a><br>Introducción
 Hashnode es una plataforma de blogging técnica popular entre desarrolladores, que ofrece una API GraphQL pública para acceder a sus datos. En este tutorial, aprenderás cómo consumir esta API para mostrar los posts de un usuario en tu pro...</td></tr><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1729108334726/727b8886-85f5-46ab-b564-896a784ff700.png" alt="ReactJS y FaunaDB"></td><td><a href="https://blog.carlosalbertoalegre.com.ar/reactjs-y-faunadb"><strong>ReactJS y FaunaDB</strong></a><br>Introducción
