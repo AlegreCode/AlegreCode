@@ -30,7 +30,7 @@
 
 | Design | Languages | Database | BaaS |
 | ------ | --------- | -------- | ---- |
-| [![My Skills](https://skillicons.dev/icons?i=ps,ai,xd)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js,php,py,go,java)](https://skillicons.dev) | <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql"/></a> <a href="https://www.mongodb.com/es" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb"/></a> | <a href="https://firebase.google.com/?hl=es" target="_blank"><img src="https://skillicons.dev/icons?i=firebase"/></a> <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase"/></a> |
+| [![My Skills](https://skillicons.dev/icons?i=ps,ai,xd,figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js,php,py,go,java)](https://skillicons.dev) | <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql"/></a> <a href="https://www.mongodb.com/es" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb"/></a> | <a href="https://firebase.google.com/?hl=es" target="_blank"><img src="https://skillicons.dev/icons?i=firebase"/></a> <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase"/></a> |
 
 ### Frameworks
 
