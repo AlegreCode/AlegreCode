@@ -6,7 +6,7 @@
 
 ****
 <div align="left">
- Soy Analista Programador y desarrollador web front-end y back-end. Actualmente manejo cuatro lenguajes de programación, Javascript, PHP, Python y Go; además estoy dedicando tiempo para aprender de forma autodidacta Java. Las tecnologías que manejo con mayor fluidez son React, Redux, Vue, Laravel, Flask y Fiber. Tengo experiencia en API Rest y GraphQL. En cuanto a herramientas de diseño, los programas que manejo son Illustrator, Photoshop, XD y Figma.
+ <p>I'm a Programmer Analyst and front- and back-end web developer. I'm currently fluent in four programming languages: Javascript, PHP, Python, and Go. I'm also dedicating time to self-teaching Java. As for design tools, I use Illustrator, Photoshop, XD, and Figma.</p>
  
 - 🌱 I’m currently learning **Java**
 
