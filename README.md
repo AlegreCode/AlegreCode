@@ -1,11 +1,12 @@
 ![AlegreCode](https://res.cloudinary.com/alegrecodecloud/image/upload/v1742329827/logotipo/logotipo_facebook-851x315_vyyz2d.jpg)
 
 <h1 align="center">Hi 👋, I'm Carlos Alberto Alegre</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h3 align="center">A web designer and developer from Argentina</h3>
 <a href="https://app.daily.dev/alegre_code"><img src="https://github.com/AlegreCode/AlegreCode/blob/main/devcard.svg" align="right" width="280" alt="Carlos Alberto Alegre's Dev Card"/></a>
 
 ****
 <div align="left">
+ Soy Analista Programador y desarrollador web front-end y back-end. Actualmente manejo cuatro lenguajes de programación, Javascript, PHP, Python y Go; además estoy dedicando tiempo para aprender de forma autodidacta Java. Las tecnologías que manejo con mayor fluidez son React, Redux, Vue, Laravel, Flask y Fiber. Tengo experiencia en API Rest y GraphQL. En cuanto a herramientas de diseño, los programas que manejo son Illustrator, Photoshop, XD y Figma.
  
 - 🌱 I’m currently learning **Java**
 
