@@ -7,14 +7,7 @@
 ****
 <div align="left">
  <p>I'm a Programmer Analyst and front- and back-end web developer. I'm currently fluent in four programming languages: Javascript, PHP, Python, and Go. I'm also dedicating time to self-teaching Java. As for design tools, I use Illustrator, Photoshop, XD, and Figma.</p>
- 
-- 🌱 I’m currently learning **Java**
-
-- 📝 I regularly write articles on [https://blog.carlosalbertoalegre.com.ar](https://blog.carlosalbertoalegre.com.ar)
-
-- 💬 Ask me about **Laravel**
-
-- 📫 How to reach me **contacto@carlosalbertoalegre.com.ar**
+ <p>I am an enthusiastic self-taught person and enjoy exploring and learning new technologies to stay abreast of the latest trends in web design and development.</p>
 </div>
 
 ****
