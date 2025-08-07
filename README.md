@@ -33,7 +33,7 @@
 | <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react"/></a> <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue"/></a> <a href="https://adonisjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=adonis"/></a> <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux"/></a> | <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel"/></a> | <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img src="https://skillicons.dev/icons?i=flask"/></a> | <a href="https://gofiber.io/" target="_blank"><img src="https://gofiber.io/assets/images/logo.svg" height="40"/></a> <a href="https://echo.labstack.com/" target="_blank"><img src="https://echo.labstack.com/img/logo-light.svg" height="40"/></a> | <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring"/></a> | <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap"/></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind"/></a> |
 ***
 ## PORTFOLIO
-<table><tr><td><img src="https://collection.cloudinary.com/alegrecodecloud/3f0240a0ac92593fab5dee0b58284ada" alt="weather app"></td><td><a href="https://weather-app-alegrecode.onrender.com/">Weather App</a><br></td></tr></table>
+<table><tr><td><img src="https://res.cloudinary.com/alegrecodecloud/image/upload/v1754532400/portfolio/weather-app_mosu0p.gif" alt="weather app"></td><td><a href="https://weather-app-alegrecode.onrender.com/">Weather App</a><br></td></tr></table>
 ***
 ## :books: Latest Posts
 <!-- HASHNODE_BLOG:START -->
